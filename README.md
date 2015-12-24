@@ -16,8 +16,8 @@ Etudiants :
      Quentin B.
      Samuel G.
 
-     Projet se déroulant dans le cadre de la chaire de l'Institut Mines-Télécom
+Projet se déroulant sous la tutelle de la chaire de l'Institut Mines-Télécom
 
-     Ce projet mettra l'accent sur les moyens cryptographiques permettant de délivrer 
-     des clés, signatures et autres moyens permettant d'authentifier, d'identifier dans
-     le but d'un contrôle d'accès
+Ce projet mettra l'accent sur les moyens cryptographiques permettant de délivrer 
+des clés, signatures et autres moyens permettant d'authentifier, d'identifier dans
+le but d'un contrôle d'accès
