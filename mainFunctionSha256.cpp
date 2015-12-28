@@ -5,11 +5,12 @@ using std::string;
 using std::cout;
 using std::endl;
  
-int main(int argc, char *argv[])
+int hashIdentityCall(int argc, char *argv[])
 {
-    string input = "grape";
-    string output1 = sha256(input);
+    string identity;
+    cout << read.identity;
+    string hashIdentity = sha256(identity);
  
-    cout << "sha256('"<< input << "'):" << output1 << endl;
+    cout << "sha256('"<< identity << "'):" << hashIdentity << endl;
     return 0;
 }
